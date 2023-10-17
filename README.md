@@ -1,2 +1,2 @@
 # Matplotlib-challenge
-Module 5
+I was tutored by Sam Zun, Saad Khan, and Imaad Fakier on this assignment.
